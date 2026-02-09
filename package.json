@@ -1,0 +1,8 @@
+{
+  "name": "inservo-ai",
+  "scripts": {
+    "deploy": "anchor deploy",
+    "test": "anchor test",
+    "simulate": "node scripts/simulate.ts"
+  }
+}
